@@ -14,7 +14,7 @@ const HeroSection = () => {
                 transition={{ duration: 0.6, ease: 'easeOut' }}
             >
                 <h1 className="text-white mb-2 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
-                    Hello, I'm 
+                    Hello, I&apos;m 
                 </h1>
                 <h1 className="mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
                    Ayna Dwi Rifdah
